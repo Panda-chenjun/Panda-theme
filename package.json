@@ -1,0 +1,21 @@
+{
+  "name": "panda",
+  "displayName": "Panda",
+  "description": "Panda-theme!",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.97.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Panda theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Panda theme-color-theme.json"
+      }
+    ]
+  }
+}
