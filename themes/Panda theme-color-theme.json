@@ -37,6 +37,12 @@
 			"settings": {
 				"fontStyle": "bold italic"
 			}
-		}
+		},
+		{
+			"scope":"entity.name.type.class.templated.cpp",
+			"settings": {
+				"fontStyle": "bold italic"
+			}
+		},
 	]
 }
